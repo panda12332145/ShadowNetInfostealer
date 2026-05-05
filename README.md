@@ -268,7 +268,7 @@ echo. > execution\shut
 | Tempo de exfiltração  | 3–8 segundos (por arquivo) |
 | Latência média FTP    | 1.2s         |
 
-![Gráfico de performance](https://quickchart.io/chart?c={type:'line',data:{labels:['Coleta','Exfiltração','Perturbação'],datasets:[{label:'Tempo (s)',data:[10,5,2]}]}})
+![Gráfico de performance](https://quickchart.io/chart?c=%7Btype%3A'line'%2Cdata%3A%7Blabels%3A%5B'Coleta'%2C'Exfiltra%C3%A7%C3%A3o'%2C'Perturba%C3%A7%C3%A3o'%5D%2Cdatasets%3A%5B%7Blabel%3A'Tempo%20(s)'%2Cdata%3A%5B10%2C5%2C2%5D%7D%5D%7D%7D)
 
 ---
 
