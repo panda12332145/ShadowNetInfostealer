@@ -1,0 +1,231 @@
+----------------------------------------- 
+ifo do PC da minha vitima USER 
+----------------------------------------- 
+
+Nome do host:                              DESKTOP-14F0CJ8
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Verso do sistema operacional:             10.0.22621 N/A compilao 22621
+Fabricante do sistema operacional:         Microsoft Corporation
+Configurao do SO:                        Estao de trabalho autnoma
+Tipo de compilao do sistema operacional: Multiprocessor Free
+Proprietrio registrado:                   USER
+Organizao registrada:                    
+Identificao do produto:                  00330-80000-00000-AA756
+Data da instalao original:               07/05/2022, 02:27:54
+Tempo de Inicializao do Sistema:         12/06/2024, 04:31:57
+Fabricante do sistema:                     LENOVO
+Modelo do sistema:                         10BD00E5BP
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 60 Stepping 3 GenuineIntel ~3400 Mhz
+Verso do BIOS:                            LENOVO FGKT35AUS, 04/12/2014
+Pasta do Windows:                          C:\Windows
+Pasta do sistema:                          C:\Windows\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portugus (Brasil)
+Localidade de entrada:                     pt-br;Portugus (Brasil)
+Fuso horrio:                              (UTC-03:00) Braslia
+Memria fsica total:                      8.106 MB
+Memria fsica disponvel:                 1.664 MB
+Memria Virtual: Tamanho Mximo:           16.212 MB
+Memria Virtual: Disponvel:               4.867 MB
+Memria Virtual: Em Uso:                   11.345 MB
+Local(is) de arquivo de paginao:         C:\pagefile.bootstrap_sys_vbs
+Domnio:                                   WORKGROUP
+Servidor de Logon:                         \\DESKTOP-14F0CJ8
+Hotfix(es):                                3 hotfix(es) instalado(s).
+                                           [01]: KB5037591
+                                           [02]: KB5039212
+                                           [03]: KB5037959
+Placa(s) de Rede:                          4 NIC(s) instalado(s).
+                                           [01]: Intel(R) Ethernet Connection I217-LM
+                                                 Nome da conexo: Ethernet
+                                                 DHCP ativado:    Sim
+                                                 Servidor DHCP:   192.168.100.1
+                                                 Endereo(es) IP
+                                                 [01]: 192.168.100.21
+                                           [02]: Realtek RTL8188FTV Wireless LAN 802.11n USB 2.0 Network Adapter
+                                                 Nome da conexo: Wi-Fi
+                                                 Status:          Mdia desconectada
+                                           [03]: Famatech Radmin VPN Ethernet Adapter
+                                                 Nome da conexo: Radmin VPN
+                                                 DHCP ativado:    No
+                                                 Endereo(es) IP
+                                                 [01]: 26.161.197.143
+                                           [04]: TAP-ProtonVPN Windows Adapter V9
+                                                 Nome da conexo: Conexo Local
+                                                 Status:          Mdia desconectada
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necessrios para o Hyper-V no sero exibidos.
+----------------------------------------- 
+todos os IPs do pc/rede 
+----------------------------------------- 
+
+Configurao de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : DESKTOP-14F0CJ8
+   Sufixo DNS primrio . . . . . . . . . . . . : 
+   Tipo de n. . . . . . . . . . . . . . . . . : hbrido
+   Roteamento de IP ativado. . . . . . . . . . : no
+   Proxy WINS ativado. . . . . . . . . . . . . : no
+
+Adaptador Ethernet Radmin VPN:
+
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Famatech Radmin VPN Ethernet Adapter
+   Endereo Fsico . . . . . . . . . . . . . . : 02-50-10-2C-FE-9A
+   DHCP Habilitado . . . . . . . . . . . . . . : No
+   Configurao Automtica Habilitada. . . . . : Sim
+   Endereo IPv4. . . . . . . .  . . . . . . . : 26.161.197.143(Preferencial) 
+   Mscara de Sub-rede . . . . . . . . . . . . : 255.0.0.0
+   Gateway Padro. . . . . . . . . . . . . . . : 26.0.0.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet vEthernet (Default Switch):
+
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Hyper-V Virtual Ethernet Adapter
+   Endereo Fsico . . . . . . . . . . . . . . : 00-15-5D-5D-DD-79
+   DHCP Habilitado . . . . . . . . . . . . . . : No
+   Configurao Automtica Habilitada. . . . . : Sim
+   Endereo IPv6 de link local . . . . . . . . : fe80::7e24:aa62:8246:c976%26(Preferencial) 
+   Endereo IPv4. . . . . . . .  . . . . . . . : 172.25.96.1(Preferencial) 
+   Mscara de Sub-rede . . . . . . . . . . . . : 255.255.240.0
+   Gateway Padro. . . . . . . . . . . . . . . : 
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 436213085
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2A-07-BC-84-64-1C-67-6E-22-BE
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Intel(R) Ethernet Connection I217-LM
+   Endereo Fsico . . . . . . . . . . . . . . : 64-1C-67-6E-22-BE
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configurao Automtica Habilitada. . . . . : Sim
+   Endereo IPv4. . . . . . . .  . . . . . . . : 192.168.100.21(Preferencial) 
+   Mscara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Concesso Obtida. . . . . . . . . . . . . . : quarta-feira, 12 de junho de 2024 16:51:38
+   Concesso Expira. . . . . . . . . . . . . . : quinta-feira, 13 de junho de 2024 16:51:38
+   Gateway Padro. . . . . . . . . . . . . . . : 192.168.100.1
+   Servidor DHCP . . . . . . . . . . . . . . . : 192.168.100.1
+   Servidores DNS. . . . . . . . . . . . . . . : 1.1.1.1
+                                                 8.8.8.8
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
+
+Adaptador desconhecido Conexo Local:
+
+   Estado da mdia. . . . . . . . . . . . . .  : mdia desconectada
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : TAP-ProtonVPN Windows Adapter V9
+   Endereo Fsico . . . . . . . . . . . . . . : 00-FF-75-6B-B5-29
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configurao Automtica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexo Local* 9:
+
+   Estado da mdia. . . . . . . . . . . . . .  : mdia desconectada
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Endereo Fsico . . . . . . . . . . . . . . : 02-E0-29-50-31-0F
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configurao Automtica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Conexo Local* 10:
+
+   Estado da mdia. . . . . . . . . . . . . .  : mdia desconectada
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Endereo Fsico . . . . . . . . . . . . . . : 00-E0-29-50-31-0F
+   DHCP Habilitado . . . . . . . . . . . . . . : No
+   Configurao Automtica Habilitada. . . . . : Sim
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Estado da mdia. . . . . . . . . . . . . .  : mdia desconectada
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Realtek RTL8188FTV Wireless LAN 802.11n USB 2.0 Network Adapter
+   Endereo Fsico . . . . . . . . . . . . . . : 00-E0-29-50-31-0F
+   DHCP Habilitado . . . . . . . . . . . . . . : Sim
+   Configurao Automtica Habilitada. . . . . : Sim
+
+Adaptador de tnel Teredo Tunneling Pseudo-Interface:
+
+   Sufixo DNS especfico de conexo. . . . . . : 
+   Descrio . . . . . . . . . . . . . . . . . : Microsoft Teredo Tunneling Adapter
+   Endereo Fsico . . . . . . . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Habilitado . . . . . . . . . . . . . . : No
+   Configurao Automtica Habilitada. . . . . : Sim
+   Endereo IPv6 . . . . . . . . . . : 2001:0:2877:7aa:1468:c1aa:4edb:ef82(Preferencial) 
+   Endereo IPv6 de link local . . . . . . . . : fe80::1468:c1aa:4edb:ef82%13(Preferencial) 
+   Gateway Padro. . . . . . . . . . . . . . . : ::
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 150994944
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-2A-07-BC-84-64-1C-67-6E-22-BE
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Desabilitado
+----------------------------------------- 
+todas as redes wifi que esse pc se conectou 
+----------------------------------------- 
+
+Perfis na interface Wi-Fi:
+
+Perfis da poltica de grupo (somente leitura)
+---------------------------------
+    <Nenhum>
+
+Perfis do usurio
+-------------
+Todos os Perfis de Usurios: Panda
+Todos os Perfis de Usurios: Thor
+Todos os Perfis de Usurios: HAPPYNET - MAMAE2G
+Todos os Perfis de Usurios: MarcosNoctel
+Todos os Perfis de Usurios: NET_2GF5A18D
+Todos os Perfis de Usurios: 2G_REDE HACKEADA
+Todos os Perfis de Usurios: CLARO_2G099FD4
+Todos os Perfis de Usurios: HAPPYNET - MAMAE2G 2
+Todos os Perfis de Usurios: marcelo
+Todos os Perfis de Usurios: Pimentel 2.4G
+Todos os Perfis de Usurios: Pimentel 2.4G_EXT
+Todos os Perfis de Usurios: senha :12344321
+Todos os Perfis de Usurios: Yago NET
+Todos os Perfis de Usurios: VIVO-6328
+Todos os Perfis de Usurios: HAPPYNET-MAMAE
+Todos os Perfis de Usurios: Marcos Noctel
+Todos os Perfis de Usurios: MENDES
+Todos os Perfis de Usurios: Fran45
+Todos os Perfis de Usurios: DIRECT-Sz-Moto G (5S)_6b38
+Todos os Perfis de Usurios: BIOCOR WIFI
+Todos os Perfis de Usurios: Athos D 
+Todos os Perfis de Usurios: FYLEINFORMATICA
+
+----------------------------------------- 
+todas as pessoas que estão nessa rede 
+----------------------------------------- 
+
+Conexes ativas
+
+  Proto  Endereo local         Endereo externo       Estado
+  TCP    127.0.0.1:23694        platform:49152         ESTABLISHED
+  TCP    127.0.0.1:49152        platform:23694         ESTABLISHED
+  TCP    127.0.0.1:50578        platform:50594         ESTABLISHED
+  TCP    127.0.0.1:50578        platform:50705         ESTABLISHED
+  TCP    127.0.0.1:50594        platform:50578         ESTABLISHED
+  TCP    127.0.0.1:50705        platform:50578         ESTABLISHED
+  TCP    192.168.100.21:13292   ce-in-f188:5228        ESTABLISHED
+  TCP    192.168.100.21:20625   39:https               ESTABLISHED
+  TCP    192.168.100.21:21642   52.226.139.121:https   ESTABLISHED
+  TCP    192.168.100.21:26919   162.159.130.234:https  ESTABLISHED
+  TCP    192.168.100.21:26928   172.64.148.154:https   ESTABLISHED
+  TCP    192.168.100.21:27002   whatsapp-chatd-edge-shv-01-gru1:http  ESTABLISHED
+  TCP    192.168.100.21:27081   a2-18-127-231:https    CLOSE_WAIT
+  TCP    192.168.100.21:27404   134:https              ESTABLISHED
+  TCP    192.168.100.21:27414   20.42.65.85:https      ESTABLISHED
+  TCP    192.168.100.21:27417   210.148.85.47:http     ESTABLISHED
+  TCP    192.168.100.21:27418   a2-21-158-46:http      ESTABLISHED
+  TCP    192.168.100.21:27419   a2-21-158-46:http      ESTABLISHED
+  TCP    192.168.100.21:27420   a2-21-156-251:http     ESTABLISHED
+  TCP    [::1]:50569            DESKTOP-14F0CJ8:50576  ESTABLISHED
+  TCP    [::1]:50573            DESKTOP-14F0CJ8:50574  ESTABLISHED
+  TCP    [::1]:50574            DESKTOP-14F0CJ8:50573  ESTABLISHED
+  TCP    [::1]:50576            DESKTOP-14F0CJ8:50569  ESTABLISHED
+----------------------------------------- 
+Todos arquivos dentro do Desktop 
+----------------------------------------- 

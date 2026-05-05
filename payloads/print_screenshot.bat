@@ -1,0 +1,1 @@
+nircmd.exe savescreenshot print1.jpg
