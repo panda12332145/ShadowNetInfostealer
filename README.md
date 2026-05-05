@@ -53,7 +53,7 @@ cd C:\Users\%username%\Download & dir >> config\system_information.txt
 > - Conexões de rede ativas (`netstat`)  
 > - Conteúdo dos diretórios `Desktop` e `Downloads`  
 >  
-> **Observação crítica**: O script contém um erro lógico — a linha `C:\Users\frant\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb` é um caminho inativo (não executa comando). Isso sugere intenção de coletar dados de navegação (cookies, localStorage de Chrome), mas o comando está ausente. O atacante provavelmente planejava usar `robocopy` ou `xcopy` para extrair o diretório `leveldb`, que contém dados de sessões de login, tokens e informações sensíveis de sites como Gmail, Facebook, etc.
+> **Observação crítica**: O script contém um erro lógico — a linha `%LOCALAPPDATA%\Google\Chrome\User Data\Profile 1\Local Storage\leveldb` é um caminho inativo (não executa comando). Isso sugere intenção de coletar dados de navegação (cookies, localStorage de Chrome), mas o comando está ausente. O atacante provavelmente planejava usar `robocopy` ou `xcopy` para extrair o diretório `leveldb`, que contém dados de sessões de login, tokens e informações sensíveis de sites como Gmail, Facebook, etc.
 
 ### Função `bootstrap_secondary.bat`
 ```bat
