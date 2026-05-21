@@ -1,14 +1,12 @@
-# ShadowNet Infostealer
-
 <h2 align="center">🚀 ShadowNet Infostealer</h2>
 
 <p align="center">
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/panda12332145/shadownet-infostealer">
-  <a href="https://github.com/panda12332145/shadownet-infostealer/commits/master">
-    <img alt="Último commit" src="https://img.shields.io/github/last-commit/panda12332145/shadownet-infostealer">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/panda12332145/ShadowNetInfostealer">
+  <a href="https://github.com/panda12332145/ShadowNetInfostealer/commits/master">
+    <img alt="Último commit" src="https://img.shields.io/github/last-commit/panda12332145/ShadowNetInfostealer">
   </a>
-  <a href="https://github.com/panda12332145/shadownet-infostealer">
-    <img alt="Stars" src="https://img.shields.io/github/stars/panda12332145/shadownet-infostealer?style=social">
+  <a href="https://github.com/panda12332145/ShadowNetInfostealer">
+    <img alt="Stars" src="https://img.shields.io/github/stars/panda12332145/ShadowNetInfostealer?style=social">
   </a>
 </p>
 
@@ -267,7 +265,7 @@ graph TD
 # 📂 Estrutura do Projeto
 
 ```plaintext
-/shadownet-infostealer
+/ShadowNetInfostealer
 ├── collection/
 │   └── collect_system_info.bat
 ├── config/
@@ -307,7 +305,7 @@ copy core\bootstrap_main.vbs "%APPDATA%\Microsoft\Windows\Start Menu\Programs\St
 
 copy core\bootstrap_sys_vbs.vbs "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\"
 
-cd /d C:\path\to\shadownet-infostealer
+cd /d C:\path\to\ShadowNetInfostealer
 
 start core\bootstrap_secondary.bat
 ```
