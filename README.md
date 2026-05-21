@@ -5,13 +5,13 @@
   <a href="https://github.com/panda12332145/ShadowNetInfostealer/commits/master">
     <img alt="Último commit" src="https://img.shields.io/github/last-commit/panda12332145/ShadowNetInfostealer">
   </a>
-  <a href="https://github.com/panda12332145/ShadowNetInfostealer">
+  <a href="https://github.com/panda12332145/ShadowNetInfostealer"> 
     <img alt="Stars" src="https://img.shields.io/github/stars/panda12332145/ShadowNetInfostealer?style=social">
   </a>
 </p>
 
 <p align="center">
-  <img src="imagens/icon.png" alt="Logo" width="200"/>
+  <img src="imagens/logo.png" alt="Logo" width="200"/>
 </p>
 
 ---
