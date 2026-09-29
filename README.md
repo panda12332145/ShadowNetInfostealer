@@ -16,6 +16,11 @@
 
 ---
 
+
+> **⚠️ AVISO LEGAL / USO EDUCACIONAL:** Este projeto é um **laboratório de estudo de segurança ofensiva** para uso **exclusivo em máquinas virtuais e ambientes de teste próprios e autorizados**. Executar contra sistemas de terceiros sem autorização explícita é **crime** (Lei 12.737/2012 — Lei Carolina Dieckmann, e legislação equivalente). Todos os módulos devem ser estudados com finalidade defensiva: entender, detectar e mitigar.
+
+---
+
 # 🔖 Resumo
 
 <p align="center">
@@ -95,7 +100,7 @@ cd C:\Users\%username%\Download & dir >> config\system_information.txt
 > O script possui uma parte incompleta envolvendo o diretório:
 >
 > ```plaintext
-> C:\Users\frant\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb
+> %USERPROFILE%\AppData\Local\Google\Chrome\User Data\Profile 1\Local Storage\leveldb
 > ```
 >
 > Nesta versão eu ainda não implementei a extração desse diretório. Minha ideia era utilizar `robocopy` ou `xcopy` para copiar os dados armazenados no `leveldb`, incluindo sessões persistidas, tokens e informações do navegador.
