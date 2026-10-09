@@ -430,3 +430,14 @@ Também gosto bastante de música, filosofia e computação avançada.
 ---
 
 *"Conhecimento é poder, e domínio técnico vem da compreensão profunda dos sistemas."*
+
+## 📊 Métricas
+
+<!-- metrics:start -->
+| Métrica | Valor |
+|---|---|
+| ⭐ Stars | 2 |
+| 🍴 Forks | 0 |
+| 📌 Issues abertas | 0 |
+| 🕐 Último commit | 2026-09-29 |
+<!-- metrics:end -->
