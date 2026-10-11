@@ -16,6 +16,8 @@
 
 ---
 
+> **👶 NOTA HISTÓRICA / PRIMEIRO PROJETO:**  
+> Este repositório é mantido como registro histórico e nostálgico: este foi o **meu primeiro malware**, desenvolvido inteiramente por curiosidade e aprendizado quando eu tinha apenas **9 anos de idade**. A estrutura simples em `.bat` e `.vbs` reflete minhas primeiras explorações práticas sobre automação e funcionamento interno do Windows.
 
 > **⚠️ AVISO LEGAL / USO EDUCACIONAL:** Este projeto é um **laboratório de estudo de segurança ofensiva** para uso **exclusivo em máquinas virtuais e ambientes de teste próprios e autorizados**. Executar contra sistemas de terceiros sem autorização explícita é **crime** (Lei 12.737/2012 — Lei Carolina Dieckmann, e legislação equivalente). Todos os módulos devem ser estudados com finalidade defensiva: entender, detectar e mitigar.
 
